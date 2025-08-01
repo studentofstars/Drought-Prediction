@@ -2,7 +2,7 @@
 
 This Streamlit web application uses machine learning (Random Forest) to predict drought phases based on survey and environmental data. The app also provides interactive visualizations, feature importance, and real-time prediction from user inputs.
 
-🔗 **Live App:** [Streamlit Deployment](https://studentofstars-drought-prediction.streamlit.app)
+🔗 **Live App:** [Streamlit Deployment]([(https://drought-prediction-project.streamlit.app/)])
 
 📂 **Dataset:** Cleaned and preprocessed dataset hosted at:  
 [https://github.com/studentofstars/Drought-Prediction/blob/main/data_labels_cleaned.csv](https://github.com/studentofstars/Drought-Prediction/blob/main/data_labels_cleaned.csv)

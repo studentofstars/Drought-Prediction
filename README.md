@@ -11,7 +11,7 @@ This Streamlit web application uses machine learning (Random Forest) to predict 
 
 ## 📌 Project Description
 
-This project was developed as part of a college mini-project to understand and forecast drought phases in India. The dataset contains survey-based features, and the target variable is **Drought Phase Classification**.
+This project was developed as part of a college mini-project to understand and forecast drought phases in Africa. The dataset contains survey-based features, and the target variable is **Drought Phase Classification**.
 
 **Key Goals:**
 - Build a reliable drought prediction model using scikit-learn
